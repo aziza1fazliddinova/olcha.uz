@@ -307,4 +307,26 @@ header {
         }
     }
 
+    .btns1 {
+        margin-top: 5px;
+        display: flex;
+        gap: 5px;
+       
+        .rassrochka{
+          width: 100px;
+          border-color: red;
+          background-color: #fff;
+          color: red;
+          border-radius:5px ;
+        }
+    }
+
+}
+.svg{
+    background-color: #fff;
+    border-radius: 3px;
+}
+.svg svg{
+    width: 20px;
+    height: 20px;
 }

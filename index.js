@@ -9,7 +9,7 @@ let btn = document.createElement('button')
 aziza.classList.add('aziza')
 item1.classList.add ('item1')
 img.srs = `./img/honor.jpg`
-img.alt = ''
+img.setAttribute('src', './honor.jpg')
 p.innerHTML='Honor X7b 8/128GB'
 p1.classList.add('narx')
 p1.innerHTML = '2 550 000 сум'
