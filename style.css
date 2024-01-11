@@ -313,7 +313,7 @@ header {
         gap: 5px;
        
         .rassrochka{
-          width: 100px;
+          width: 130px;
           border-color: red;
           background-color: #fff;
           color: red;
@@ -327,6 +327,6 @@ header {
     border-radius: 3px;
 }
 .svg svg{
-    width: 20px;
-    height: 20px;
+    width: 30px;
+    height: 30px;
 }
